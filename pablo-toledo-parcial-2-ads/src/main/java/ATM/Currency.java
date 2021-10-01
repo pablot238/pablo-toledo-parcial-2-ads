@@ -1,3 +1,4 @@
+//Guardar cantidad
 package ATM;
 
 public class Currency {

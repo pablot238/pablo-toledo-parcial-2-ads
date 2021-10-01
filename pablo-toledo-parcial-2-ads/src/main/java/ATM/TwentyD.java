@@ -1,5 +1,6 @@
 package ATM;
 
+//cadena para los billetes de 20
 public class TwentyD implements DispenseChain{
     private DispenseChain chain;
     

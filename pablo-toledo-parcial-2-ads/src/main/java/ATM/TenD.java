@@ -1,5 +1,6 @@
 package ATM;
 
+//cadena para los billetes de 10
 public class TenD implements DispenseChain{
     private DispenseChain chain;
     

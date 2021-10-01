@@ -1,5 +1,6 @@
 package ATM;
 
+//cadena para los billetes de 50
 public class FiftyD implements DispenseChain{
     private DispenseChain chain;
     
